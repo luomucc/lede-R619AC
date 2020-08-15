@@ -428,7 +428,7 @@ jobs:
                 # CONFIG_KERNEL_CC_OPTIMIZE_FOR_SIZE is not set
                 #
                 # Package build options
-                #
+                # 
                 # CONFIG_DEBUG is not set
                 CONFIG_IPV6=y
                 #
